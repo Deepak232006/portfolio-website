@@ -66,15 +66,11 @@ Portfolio-Website/
 
 ## GitHub Repository
 
-GitHub Repository:
-https://github.com/YourUsername/YourRepository
-
----
+https://github.com/Deepak232006/portfolio-website
 
 ## Live Website
 
-CloudFront URL:
-https://your-cloudfront-domain.cloudfront.net
+https://d3djpgv45zreaz.cloudfront.net
 
 ---
 
